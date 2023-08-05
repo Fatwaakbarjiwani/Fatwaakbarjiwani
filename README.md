@@ -1,3 +1,4 @@
+![logo](https://github.com/Fatwaakbarjiwani/Fatwaakbarjiwani/blob/94a0929234e587fd71f7558981de0ac02d850393/Cover%20profile.png)
 <h1 align="center">Hi 👋, I'm Fatwa Akbar Jiwani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
