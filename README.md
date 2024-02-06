@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatwaakbarjiwani&label=Profile%20views&color=0e75b6&style=flat" alt="fatwaakbarjiwani" /> </p>
 
-- 🔭 I’m currently studying Frontend [WEB DATA DIRI](https://fatwaakbar.000webhostapp.com/index.php)
-
 - 🌱 I’m currently learning **HTML,CSS,PHP**
 
 - 📫 How to reach me **fatwaakbar2003@gmail.com**
