@@ -13,7 +13,9 @@
 #### 1. [Universitas Islam Sultan Agung](https://unissula.ac.id/) | Informatics Engineering | Semarang `2021-Now`
    - joined a student association | member of the social division
    - informatics event coordinator
- #### 2. [SMA N 1 Demak](https://smanegeri1-demak.sch.id/) | MIPA | Demak `2018-2021`
+#### 2. [SMA N 1 Demak](https://smanegeri1-demak.sch.id/) | MIPA | Demak `2018-2021`
+   - head of the ROHIS R&D division
+#### 3. [Binar Academy](https://www.binaracademy.com/) | FrontEnd JavaScript | Demak `2023-2024`
    - head of the ROHIS R&D division
 
 <h3 align="left">Connect with me:</h3>
